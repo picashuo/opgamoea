@@ -1,0 +1,2 @@
+openga.operator.localSearch.localSearchByVNSDC$PNode
+openga.operator.localSearch.localSearchByVNSDC

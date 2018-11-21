@@ -1,0 +1,1 @@
+openga.operator.crossover.uniformCrossoverwithAdaptive
